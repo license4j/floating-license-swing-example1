@@ -2,4 +2,4 @@
 
 Get the the floating license server address installed on user's own network and request/validate license on the server.
 
-Link to [Floating License Server]([https://license4j.github.io](https://www.license4j.com/products/floating-license-server/)/) page.
+Link to [Floating License Server](https://www.license4j.com/products/floating-license-server/) page for download.
